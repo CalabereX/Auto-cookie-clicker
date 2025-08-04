@@ -17,10 +17,15 @@ Made for players who want to farm hard without losing control.
 
 ## 📁 Project Structure
 auto-cookie-clicker/
+
 ├── assets/
+
 ├── src/
+
 │ ├── autoclicker.py # Main clicker logic
+
 │ ├── utils.py # Game process detection
+
 │ └── config.py # Configurable parameters
 
 
