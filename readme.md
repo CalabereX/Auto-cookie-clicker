@@ -33,6 +33,7 @@ Install the required libraries via pip:
 
 pip install pyautogui mouse keyboard psutil
 
+---
 
 ## Used Libraries
 
