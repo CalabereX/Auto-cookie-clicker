@@ -18,7 +18,6 @@ Made for players who want to farm hard without losing control.
 ## 📁 Project Structure
 auto-cookie-clicker/
 
-├── assets/
 
 ├── src/
 
